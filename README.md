@@ -45,7 +45,7 @@ For partnership inquiries send an email to [contact@edgemesh.com](mailto:contact
 </p>
 <p align="center">
   <a href="https://github.com/edgemesh/server/releases">
-    <img src="https://img.shields.io/github/release/edgemesh/edgemesh.svg?&longCache=true&style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/github/release/edgemesh/server.svg?&longCache=true&style=for-the-badge" alt="Version" />
   </a>
   <a href="https://github.com/edgemesh/server/blob/master/LICENSE.md">
     <img src="https://img.shields.io/badge/license-mpl--2.0-orange.svg?&longCache=true&style=for-the-badge" alt="License" />
